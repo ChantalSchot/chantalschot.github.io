@@ -12,11 +12,13 @@
 ## Logbook
 > **2019-08-09 [The Complete Web Development Bootcamp](https://www.udemy.com/the-complete-web-development-bootcamp)**  
 > * 9 Aug:  
->   Section 1 - 3 finished (intro & HTML)  
->   Looked up guides to using Git & GitHub.  
+>   - Section 1 - 3 finished (intro & HTML)  
+>   - Looked up guides to using Git & GitHub.  
 > * 10 Aug:  
->   Created personal [GitHub page](https://chantalschot.github.io/) as a collection to list all GitHub pages.  
->   Added activity log (courses and log book, this file) to personal page repository.  
+>   - Created personal [GitHub page](https://chantalschot.github.io/) as a collection to list all GitHub pages.  
+>   - Added activity log (courses and log book, this file) to personal page repository.  
+
 
 <br>  
+
 > 2019-08-08 Finished "[What is programming](https://classroom.udacity.com/courses/ud994)"
