@@ -25,6 +25,9 @@
 >   - Section 5 Intermediate CSS, lesson 38-45.
 > * 12 Aug:
 >   - Section 5 Intermediate CSS, lesson 46-54.
+> * 13 Aug:
+>   - Section 5 completed, [personal site](https://chantalschot.github.io/cssMySite/) finished with CSS.
+>   - Started on Section 6 (Bootstrap).
 
 
 
