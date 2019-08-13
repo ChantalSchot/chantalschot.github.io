@@ -23,6 +23,11 @@
 >   - Remaining part of Section 4 (External CSS) finished [here](https://chantalschot.github.io/htmlcourse/).
 >   - Refreshed knowledge of previous webpages from 5DCC and FCC courses.
 >   - Section 5 Intermediate CSS, lesson 38-45.
+> * 12 Aug:
+>   - Section 5 Intermediate CSS, lesson 46-54.
+> * 13 Aug:
+>   - Section 5 completed, [personal site](https://chantalschot.github.io/cssMySite/) finished with CSS.
+>   - Started on Section 6 (Bootstrap).
 
 
 
