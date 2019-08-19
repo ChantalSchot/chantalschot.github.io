@@ -28,6 +28,8 @@
 > * 13 Aug:
 >   - Section 5 completed, [personal site](https://chantalschot.github.io/cssMySite/) finished with CSS.
 >   - Started on Section 6 (Bootstrap), up until lesson 61.
+> * 19 Aug:
+>   - Section 6 lessons 62-67 (started on TinDog site, bootstrap columns.
 
 
 
