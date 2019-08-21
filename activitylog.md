@@ -32,6 +32,9 @@
 >   - Section 6 lessons 62-67 (started on TinDog site, bootstrap columns.
 > * 20 Aug:
 >   - Section 6 Lessons 68-72 (title section of tindog site).
+> * 21 Aug:
+>   - Section 6 finished, set up carousel myself (part of next lesson).
+
 
 
 
