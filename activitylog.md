@@ -34,6 +34,9 @@
 >   - Section 6 Lessons 68-72 (title section of tindog site).
 > * 21 Aug:
 >   - Section 6 finished, set up carousel myself (part of next lesson).
+> *Pause due to holiday in Sweden*
+> * 4 Sep:
+>   - Section 7 lesson 75-81, finishing tindog bootstrap site.
 
 
 
