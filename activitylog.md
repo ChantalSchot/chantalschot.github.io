@@ -4,7 +4,7 @@
 | Date              | Activity                   							    | Source                  		   |
 | :-----------------|---------------------------------------------|--------------------------------|
 | April 2019        | 5 Day Coding Challenge                      | CodeInstitute
-| May 2019          | Responsive Web Design (300hr)  							| FreeCodeCamp 									 |
+| May 2019          | Responsive Web Design (300hr), HTML+CSS			| FreeCodeCamp 									 |
 | June 2019         | Introduction to HTML + CSS + JavaScript  		| Udacity                        |
 | Aug-Sep 2019      | The Complete Web Development Bootcamp       | Udemy (Angela Yu)              |
 
@@ -27,7 +27,14 @@
 >   - Section 5 Intermediate CSS, lesson 46-54.
 > * 13 Aug:
 >   - Section 5 completed, [personal site](https://chantalschot.github.io/cssMySite/) finished with CSS.
->   - Started on Section 6 (Bootstrap).
+>   - Started on Section 6 (Bootstrap), up until lesson 61.
+> * 19 Aug:
+>   - Section 6 lessons 62-67 (started on TinDog site, bootstrap columns.
+> * 20 Aug:
+>   - Section 6 Lessons 68-72 (title section of tindog site).
+> * 21 Aug:
+>   - Section 6 finished, set up carousel myself (part of next lesson).
+
 
 
 
