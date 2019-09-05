@@ -8,7 +8,15 @@
 | June 2019         | Introduction to HTML + CSS + JavaScript  		| Udacity                        |
 | Aug-Sep 2019      | The Complete Web Development Bootcamp       | Udemy (Angela Yu)              |
 
-<br>  
+<br>
+
+
+## Skills
+* HTML, CSS (incl Bootstrap) ***
+* JavaScript *
+
+<br>
+
 
 ## Logbook
 > **2019-08-09 [The Complete Web Development Bootcamp](https://www.udemy.com/the-complete-web-development-bootcamp)**  
@@ -37,6 +45,9 @@
 > *Pause due to holiday in Sweden*
 > * 4 Sep:
 >   - Section 7 lesson 75-81, finishing tindog bootstrap site.
+> * 5 Sep:
+>   - Section 7 finished (lessons 82-88) - [Bootstrap Tindog](https://chantalschot.github.io/bootstrap-tindog/) website finalised.
+>   - Started section 8 lessons 89-90.
 
 
 
