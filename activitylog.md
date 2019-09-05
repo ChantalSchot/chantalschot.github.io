@@ -47,7 +47,7 @@
 >   - Section 7 lesson 75-81, finishing tindog bootstrap site.
 > * 5 Sep:
 >   - Section 7 finished (lessons 82-88) - [Bootstrap Tindog](https://chantalschot.github.io/bootstrap-tindog/) website finalised.
->   - Section 8 lessons 89-90 done.
+>   - Section 8 finished (lessons 89 - 108).
 
 
 
