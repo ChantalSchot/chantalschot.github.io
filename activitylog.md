@@ -5,8 +5,9 @@
 | :-----------------|---------------------------------------------|--------------------------------|
 | April 2019        | 5 Day Coding Challenge                      | CodeInstitute
 | May 2019          | Responsive Web Design (300hr), HTML+CSS			| FreeCodeCamp 									 |
-| June 2019         | Introduction to HTML + CSS + JavaScript  		| Udacity                        |
-| Aug-Sep 2019      | The Complete Web Development Bootcamp       | Udemy (Angela Yu)              |
+| June 2019         | Introduction to HTML + CSS + JavaScript			| Udacity												 |
+| Aug-Sep 2019      | The Complete Web Development Bootcamp				| Udemy (Angela Yu)							 |
+| Sep 2019		      | Become a Rapid Developer (Developer)				| Mendix Learning Paths					 |
 
 <br>
 
@@ -14,6 +15,7 @@
 ## Skills
 * HTML, CSS (incl Bootstrap) ***
 * JavaScript *
+* Mendix *
 
 <br>
 
@@ -41,17 +43,30 @@
 > * 20 Aug:
 >   - Section 6 Lessons 68-72 (title section of tindog site).
 > * 21 Aug:
->   - Section 6 finished, set up carousel myself (part of next lesson).
-> *Pause due to holiday in Sweden*
+>   - Section 6 finished, set up carousel myself (part of next lesson).  
+>  
+> Pause due to holiday in Sweden
 > * 4 Sep:
 >   - Section 7 lesson 75-81, finishing tindog bootstrap site.
 > * 5 Sep:
 >   - Section 7 finished (lessons 82-88) - [Bootstrap Tindog](https://chantalschot.github.io/bootstrap-tindog/) website finalised.
->   - Started section 8 lessons 89-90.
+>   - Section 8 finished: Introduction to JavaScript (lessons 89 - 108).
 
 
 
 
 <br>  
 
-> 2019-08-08 Finished "[What is programming](https://classroom.udacity.com/courses/ud994)"
+> **2019-09-09 [Become a Rapid Developer](https://gettingstarted.mendixcloud.com/link/path/38)**  
+> * 9 Sep:
+>   - Introduction
+> * 10 Sep:
+>   - Collaborating with your team: creating the app and wireframes.
+> * 11 Sep:
+
+
+
+
+<br>  
+
+> 2019-08-08 "[What is programming](https://classroom.udacity.com/courses/ud994)"
