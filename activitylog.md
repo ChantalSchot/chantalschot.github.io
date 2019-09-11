@@ -63,6 +63,7 @@
 > * 10 Sep:
 >   - Collaborating with your team: creating the app and wireframes.
 > * 11 Sep:
+>   - Setting up app homepage, overview pages and data (finished section 4)
 
 
 
