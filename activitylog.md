@@ -68,6 +68,7 @@
 >   - Adding  microflows and debugging.
 > * 14 Sep:
 >   - Data validation and deletion of database objects.
+>   - Finished the Mendix Rapid Developer course.
 
 
 
