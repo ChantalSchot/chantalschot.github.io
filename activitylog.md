@@ -13,7 +13,7 @@
 
 
 ## Skills
-* HTML, CSS (incl Bootstrap) ***
+* HTML, CSS (incl Bootstrap) **
 * JavaScript *
 * Mendix *
 
@@ -63,7 +63,11 @@
 > * 10 Sep:
 >   - Collaborating with your team: creating the app and wireframes.
 > * 11 Sep:
->   - Setting up app homepage, overview pages and data (finished section 4)
+>   - Setting up app homepage, overview pages and data (finished section 4).
+> * 13 Sep:
+>   - Adding  microflows and debugging.
+> * 14 Sep:
+>   - Data validation and deletion of database objects.
 
 
 
