@@ -69,6 +69,8 @@
 > * 14 Sep:
 >   - Data validation and deletion of database objects.
 >   - Finished the Mendix Rapid Developer course.
+> * 15 Sep:
+>   - Continued with finishing the LearnNow app by adding more user stories and working on them.
 
 
 
