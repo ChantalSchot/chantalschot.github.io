@@ -71,6 +71,8 @@
 >   - Finished the Mendix Rapid Developer course.
 > * 15 Sep:
 >   - Continued with finishing the LearnNow app by adding more user stories and working on them.
+> * 16 Sep:
+>   - Finished working on Mendix app by adding all detail pages, making the database editable by admin completely.
 
 
 
