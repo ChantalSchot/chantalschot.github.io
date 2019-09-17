@@ -13,7 +13,7 @@
 
 
 ## Skills
-* HTML, CSS (incl Bootstrap) ***
+* HTML, CSS (incl Bootstrap) **
 * JavaScript *
 * Mendix *
 
@@ -51,6 +51,10 @@
 > * 5 Sep:
 >   - Section 7 finished (lessons 82-88) - [Bootstrap Tindog](https://chantalschot.github.io/bootstrap-tindog/) website finalised.
 >   - Section 8 finished: Introduction to JavaScript (lessons 89 - 108).
+> Pause due to Mendix course and job searching.
+> * 17 Sep:
+>   - Section 9 finished: Intermediate JavaScript (lessons 109 - 117).
+>   - Section 10 started: Lessons 118 - 121.
 
 
 
@@ -63,6 +67,16 @@
 > * 10 Sep:
 >   - Collaborating with your team: creating the app and wireframes.
 > * 11 Sep:
+>   - Setting up app homepage, overview pages and data (finished section 4).
+> * 13 Sep:
+>   - Adding  microflows and debugging.
+> * 14 Sep:
+>   - Data validation and deletion of database objects.
+>   - Finished the Mendix Rapid Developer course.
+> * 15 Sep:
+>   - Continued with finishing the LearnNow app by adding more user stories and working on them.
+> * 16 Sep:
+>   - Finished working on Mendix app by adding all detail pages, making the database editable by admin completely.
 
 
 
