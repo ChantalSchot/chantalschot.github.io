@@ -51,6 +51,10 @@
 > * 5 Sep:
 >   - Section 7 finished (lessons 82-88) - [Bootstrap Tindog](https://chantalschot.github.io/bootstrap-tindog/) website finalised.
 >   - Section 8 finished: Introduction to JavaScript (lessons 89 - 108).
+> Pause due to Mendix course and job searching.
+> * 17 Sep:
+>   - Section 9 finished: Intermediate JavaScript (lessons 109 - 117).
+>   - Section 10 started: Lessons 118 - 121.
 
 
 
