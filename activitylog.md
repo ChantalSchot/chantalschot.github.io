@@ -21,7 +21,13 @@
 
 
 ## Logbook
-> **2019-08-09 [The Complete Web Development Bootcamp](https://www.udemy.com/the-complete-web-development-bootcamp)**  
+
+> 2019-08-08 "[What is programming](https://classroom.udacity.com/courses/ud994)"
+
+<details>
+	<summary> August - September 2019: The Complete Web Development Bootcamp</summary>
+
+> **[The Complete Web Development Bootcamp](https://www.udemy.com/the-complete-web-development-bootcamp)**  
 > * 9 Aug:  
 >   - Section 1 - 3 finished (intro & HTML).  
 >   - Looked up guides for using Git & GitHub.  
@@ -58,13 +64,15 @@
 > * 22 Sep:
 >   - Section 10 finished: lessons 122 - 125.
 >   - Section 11 finished: lessons 126 - 135.
-
+</details>
 
 
 
 <br>  
+<details>
+	<summary>September 2019: Mendix - Become a Rapid Developer</summary>
 
-> **2019-09-09 [Become a Rapid Developer](https://gettingstarted.mendixcloud.com/link/path/38)**  
+> **[Mendix - Become a Rapid Developer](https://gettingstarted.mendixcloud.com/link/path/38)**  
 > * 9 Sep:
 >   - Introduction
 > * 10 Sep:
@@ -80,10 +88,9 @@
 >   - Continued with finishing the LearnNow app by adding more user stories and working on them.
 > * 16 Sep:
 >   - Finished working on Mendix app by adding all detail pages, making the database editable by admin completely.
+</details>
 
 
 
 
 <br>  
-
-> 2019-08-08 "[What is programming](https://classroom.udacity.com/courses/ud994)"
