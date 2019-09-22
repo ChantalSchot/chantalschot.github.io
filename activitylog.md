@@ -54,7 +54,10 @@
 > Pause due to Mendix course and job searching.
 > * 17 Sep:
 >   - Section 9 finished: Intermediate JavaScript (lessons 109 - 117).
->   - Section 10 started: Lessons 118 - 121.
+>   - Section 10 started: Document-Object Model (DOM), Lessons 118 - 121.
+> * 22 Sep:
+>   - Section 10 finished: lessons 122 - 125.
+>   - Section 11 started: The Dicee Game (html + css skeleton).
 
 
 
