@@ -66,6 +66,8 @@
 >   - Section 11 finished: lessons 126 - 135.
 > * 23 Sep:
 >   - Section 12 started: lessons 136 - 144.
+> * 24 Sep:
+>   - Section 12 finished: lessons 145 - 149.
 </details>
 
 
