@@ -1,13 +1,14 @@
 
 # Courses
 
-| Date              | Activity                   							    | Source                  		   |
-| :-----------------|---------------------------------------------|--------------------------------|
-| April 2019        | 5 Day Coding Challenge                      | CodeInstitute
-| May 2019          | Responsive Web Design (300hr), HTML+CSS			| FreeCodeCamp 									 |
-| June 2019         | Introduction to HTML + CSS + JavaScript			| Udacity												 |
-| Aug-Sep 2019      | The Complete Web Development Bootcamp				| Udemy (Angela Yu)							 |
-| Sep 2019		      | Become a Rapid Developer (Developer)				| Mendix Learning Paths					 |
+| Date              | Activity                   							    | Source                  		     |
+| :-----------------|---------------------------------------------|----------------------------------|
+| April 2019        | 5 Day Coding Challenge                      | CodeInstitute                    |
+| May 2019          | Responsive Web Design (300hr), HTML+CSS			| FreeCodeCamp 									   |
+| June 2019         | Introduction to HTML + CSS + JavaScript			| Udacity												   |
+| Aug-Sep 2019      | The Complete Web Development Bootcamp				| Udemy (Angela Yu)							   |
+| Sep 2019		      | Become a Rapid Developer (Developer)				| Mendix Learning Paths					   |
+| Sep 2019          | Python for Absolute Beginners               | Udemy (Green Chameleon Learning) |
 
 <br>
 
@@ -16,6 +17,7 @@
 * HTML, CSS (incl Bootstrap) **
 * JavaScript *
 * Mendix *
+* Python *
 
 <br>
 
@@ -95,6 +97,14 @@
 </details>
 
 
+
+<br>  
+<details>
+	<summary>September 2019: Python for Absolute Beginners</summary>
+
+> **[Python for Absolute Beginners](https://www.udemy.com/course/python-for-absolute-beginners-u/)**
+> * 26 Sep: Section 1-3 (intro, basics, strings and print), up until lesson 11
+</details>
 
 
 <br>  
