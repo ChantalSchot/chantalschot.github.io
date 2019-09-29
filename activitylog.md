@@ -103,8 +103,9 @@
 	<summary>September 2019: Python for Absolute Beginners</summary>
 
 > **[Python for Absolute Beginners](https://www.udemy.com/course/python-for-absolute-beginners-u/)**
-> * 26 Sep: Section 1-3 (intro, basics, strings and print), up until lesson 11
-> * 27 Sep: Section 4 (conditionals and flow control), lesson 12-19
+> * 26 Sep: Section 1-3 (intro, basics, strings and print), up until lesson 11.
+> * 27 Sep: Section 4 (conditionals and flow control), lesson 12-19.
+> * 29 Sep: Section 5-9, lesson 20-43.
 </details>
 
 
