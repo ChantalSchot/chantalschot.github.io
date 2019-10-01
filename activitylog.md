@@ -6,7 +6,7 @@
 | April 2019        | 5 Day Coding Challenge                      | CodeInstitute                    |
 | May 2019          | Responsive Web Design (300hr), HTML+CSS			| FreeCodeCamp 									   |
 | June 2019         | Introduction to HTML + CSS + JavaScript			| Udacity												   |
-| Aug-Sep 2019      | The Complete Web Development Bootcamp				| Udemy (Angela Yu)							   |
+| Aug-Oct 2019      | The Complete Web Development Bootcamp				| Udemy (Angela Yu)							   |
 | Sep 2019		      | Become a Rapid Developer (Developer)				| Mendix Learning Paths					   |
 | Sep 2019          | Python for Absolute Beginners               | Udemy (Green Chameleon Learning) |
 
@@ -27,7 +27,7 @@
 > 2019-08-08 "[What is programming](https://classroom.udacity.com/courses/ud994)"
 
 <details>
-	<summary> August - September 2019: The Complete Web Development Bootcamp</summary>
+	<summary> August - October 2019: The Complete Web Development Bootcamp</summary>
 
 > **[The Complete Web Development Bootcamp](https://www.udemy.com/the-complete-web-development-bootcamp)**  
 > * 9 Aug:  
@@ -70,6 +70,8 @@
 >   - Section 12 started: lessons 136 - 144.
 > * 24 Sep:
 >   - Section 12 finished: lessons 145 - 149.
+> * 1 Oct:
+>   - Section 13: 
 </details>
 
 
@@ -106,6 +108,8 @@
 > * 26 Sep: Section 1-3 (intro, basics, strings and print), up until lesson 11.
 > * 27 Sep: Section 4 (conditionals and flow control), lesson 12-19.
 > * 29 Sep: Section 5-9, lesson 20-43.
+> * 30 Sep: Section 10, lessons 44-45.
+>   - Also created a Tic Tac Toe game in python with help of some tutorials.
 </details>
 
 
