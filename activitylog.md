@@ -106,6 +106,7 @@
 > * 26 Sep: Section 1-3 (intro, basics, strings and print), up until lesson 11.
 > * 27 Sep: Section 4 (conditionals and flow control), lesson 12-19.
 > * 29 Sep: Section 5-9, lesson 20-43.
+> * 30 Sep: Section 10, lesson 4
 </details>
 
 
