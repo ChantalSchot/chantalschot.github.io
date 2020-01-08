@@ -1,23 +1,26 @@
 
 # Courses
 
-| Date              | Activity                   							    | Source                  		     |
-| :-----------------|---------------------------------------------|----------------------------------|
-| April 2019        | 5 Day Coding Challenge                      | CodeInstitute                    |
-| May 2019          | Responsive Web Design (300hr), HTML+CSS			| FreeCodeCamp 									   |
-| June 2019         | Introduction to HTML + CSS + JavaScript			| Udacity												   |
-| Aug-Oct 2019      | The Complete Web Development Bootcamp				| Udemy (Angela Yu)							   |
-| Sep 2019		      | Become a Rapid Developer (Developer)				| Mendix Learning Paths					   |
-| Sep 2019          | Python for Absolute Beginners               | Udemy (Green Chameleon Learning) |
+| Date                        | Activity                   							    | Source                  		     |
+| :-----------------          |---------------------------------------------|----------------------------------|
+| April 2019                  | 5 Day Coding Challenge                      | CodeInstitute                    |
+| May 2019                    | Responsive Web Design (300hr), HTML+CSS			| FreeCodeCamp 									   |
+| June 2019                   | Introduction to HTML + CSS + JavaScript			| Udacity												   |
+| Aug-Oct 2019 + Jan 2020     | The Complete Web Development Bootcamp				| Udemy (Angela Yu)							   |
+| Sep 2019		                | Become a Rapid Developer (Developer)				| Mendix Learning Paths					   |
+| Sep 2019                    | Python for Absolute Beginners               | Udemy (Green Chameleon Learning) |
+| Jan-Feb 2020                | Software Engineering Track - Foundation     | Capgemini Academy (Utrecht)      |
 
 <br>
 
 
 ## Skills
-* HTML, CSS (incl Bootstrap) **
-* JavaScript *
+* HTML5, CSS3 (incl Bootstrap) **
+* JavaScript (incl jQuery) *
 * Mendix *
 * Python *
+* Java 8
+* Agile, Scrum *
 
 <br>
 
@@ -71,9 +74,12 @@
 > * 24 Sep:
 >   - Section 12 finished: lessons 145 - 149.
 > * 1 Oct:
->   - Section 13: lessons 150-152.
+>   - Section 13: lessons 150 - 152.
 > * 4 Oct:
->   - Section 13: lessons 153-156.
+>   - Section 13: lessons 153 - 156.
+> Pause due to work at WUR, job applications etc. Started traineeship Capgemini 1-1-2020!
+> * 8 Jan:
+>   - Section 13 finished: lessons 157 - 159.
 </details>
 
 
@@ -113,6 +119,16 @@
 > * 30 Sep: Section 10, lessons 44-45.
 >   - Also created a Tic Tac Toe game in python with help of some tutorials.
 </details>
+
+<br>  
+<details>
+	<summary>Jan - Feb 2020: Software Engineering Track - Foundation (Capgemini)</summary>
+
+> **[Software Engineering Track](https://academy.capgemini.nl/en/courses/software-engineering-track-foundation)**
+> Starts January 13th, ends February 21st.
+> Certification for Java SE 8
+> Includes HTML5, CSS3, JavaScript, jQuery, Spring Boot framework, databases (H2 / MySQL).
+> Includes Agile working in a Scrum team.
 
 
 <br>  
