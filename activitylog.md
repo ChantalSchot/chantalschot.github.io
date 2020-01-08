@@ -71,7 +71,9 @@
 > * 24 Sep:
 >   - Section 12 finished: lessons 145 - 149.
 > * 1 Oct:
->   - Section 13: 
+>   - Section 13: lessons 150-152.
+> * 4 Oct:
+>   - Section 13: lessons 153-156.
 </details>
 
 
