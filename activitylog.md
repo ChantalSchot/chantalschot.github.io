@@ -82,6 +82,8 @@
 >   - Section 13 finished: lessons 157 - 159.
 > * 11 Jan:
 >   - Section 14: lessons 160 - 162.
+> * 12 Jan:
+>   - Sectoin 14: lessons 163 - 168.
 </details>
 
 
