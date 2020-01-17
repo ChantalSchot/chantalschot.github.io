@@ -82,6 +82,10 @@
 > Pause due to work at WUR, job applications etc. Started traineeship Capgemini 1-1-2020!
 > * 8 Jan:
 >   - Section 13 finished: lessons 157 - 159.
+> * 11 Jan:
+>   - Section 14: lessons 160 - 162.
+> * 12 Jan:
+>   - Sectoin 14: lessons 163 - 168.
 </details>
 
 
