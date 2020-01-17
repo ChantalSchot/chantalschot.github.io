@@ -10,6 +10,8 @@
 | Sep 2019		                | Become a Rapid Developer (Developer)				| Mendix Learning Paths					   |
 | Sep 2019                    | Python for Absolute Beginners               | Udemy (Green Chameleon Learning) |
 | Jan-Feb 2020                | Software Engineering Track - Foundation     | Capgemini Academy (Utrecht)      |
+| Jan 2020										| Intro to Java: Functional Programming				| Udacity												   |
+
 
 <br>
 
@@ -127,7 +129,7 @@
 > **[Software Engineering Track](https://academy.capgemini.nl/en/courses/software-engineering-track-foundation)**
 > Starts January 13th, ends February 21st.
 > Certification for Java SE 8
-> Includes HTML5, CSS3, JavaScript, jQuery, Spring Boot framework, databases (H2 / MySQL).
+> Includes JUnit testing, HTML5, CSS3, JavaScript, jQuery, Spring Boot framework, databases (H2 / MySQL).
 > Includes Agile working in a Scrum team.
 
 
