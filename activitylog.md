@@ -10,7 +10,8 @@
 | Sep 2019		                | Become a Rapid Developer (Developer)				| Mendix Learning Paths					   |
 | Sep 2019                    | Python for Absolute Beginners               | Udemy (Green Chameleon Learning) |
 | Jan-Feb 2020                | Software Engineering Track - Foundation     | Capgemini Academy (Utrecht)      |
-| Jan 2020										| Intro to Java: Functional Programming				| Udacity												   |
+| Jan 2020										| Java Programming Masterclass for Developers | Udemy 												   |
+
 
 
 <br>
@@ -21,7 +22,7 @@
 * JavaScript (incl jQuery) *
 * Mendix *
 * Python *
-* Java 8
+* Java (8 + 11) *
 * Agile, Scrum *
 
 <br>
@@ -85,7 +86,7 @@
 > * 11 Jan:
 >   - Section 14: lessons 160 - 162.
 > * 12 Jan:
->   - Sectoin 14: lessons 163 - 168.
+>   - Section 14: lessons 163 - 168.
 </details>
 
 
@@ -135,6 +136,12 @@
 > Certification for Java SE 8
 > Includes JUnit testing, HTML5, CSS3, JavaScript, jQuery, Spring Boot framework, databases (H2 / MySQL).
 > Includes Agile working in a Scrum team.
+
+<details>
+	<summary>Jan - ... 2020: Java Programming Masterclass for Software Developers</summary>
+
+> **[Java Programming Masterclass for Software Developers](https://www.udemy.com/course/java-the-complete-java-developer-course/)**  
+> * 18 Jan: Section 1-2 finished. Section 3: lessons 18 - 27
 
 
 <br>  
