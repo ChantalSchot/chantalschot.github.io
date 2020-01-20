@@ -143,5 +143,6 @@
 > **[Java Programming Masterclass for Software Developers](https://www.udemy.com/course/java-the-complete-java-developer-course/)**  
 > * 18 Jan: Section 1-2 finished. Section 3: lessons 18 - 27
 > * 19 Jan: Section 3 finished. Section 6 OOP: 75 - 79 (coding exercise 29-32)
+> * 20 Jan: Section 6 OOP: exercise 33 + 44
 
 <br>  
